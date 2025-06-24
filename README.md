@@ -1,8 +1,6 @@
 ![mern stack project](https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/project-thumbnail.jpg?raw=true)
-# <img src="https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/logo.png?raw=true" alt="description" width="49" height="49"> **StreamVibe** - Fullstack MERN & Next.js Project for Movie and TV Show Streaming
+#  **StreamVibe** - Fullstack MERN & Next.js Project for Movie and TV Show Streaming
 
-[![GitHub stars](https://img.shields.io/github/stars/amirrezaRst/StreamVibe?style=social)](https://github.com/amirrezaRst/StreamVibe/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/amirrezaRst/StreamVibe?style=social)](https://github.com/amirrezaRst/StreamVibe/network/members)
 
 ### Under Ongoing Development
 
@@ -125,17 +123,20 @@ Ensure MongoDB is running: The backend requires MongoDB to be running. If using 
 
 ![Website Screenshot](https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/streamvibe-project-desktop.png?raw=true)
 
-🔗 [Check out the live demo here!](https://streamvibe-live.liara.run/)
 
 
 ## **Contact**
 
 If you're looking for collaboration on web or app development projects, or if you're in need of professional software development services, we’d be happy to connect. We are open to working with clients and other developers to deliver high-quality, successful projects.
+👋 I'm Md Anas Inam Khan, a fullstack developer passionate about building secure, scalable web apps.
 
-- 📧 Email: [amirreza.rostami.0073@gmail.com](mailto:amirreza.rostami.0073@gmail.com)
-- 🌐 Website: [https://amirrezarostami.ir](https://amirrezarostami.ir)
-- 💼 LinkedIn: [LinkedIn Profile Address](https://www.linkedin.com/in/amirreza-rostami-2861b7265/)
-- 🌐 Telegram: [Telegram Address](https://web.telegram.org/a/#478283953)
+📧 Email: anaskhan9501499079@gmail.com
+
+💼 LinkedIn: linkedin.com/in/anas-khan-b6722424b
+
+💻 GitHub: github.com/Anas-7860
+
+🌐 Portfolio: anas-7860.github.io/Portfolio-Anas005
 
 Feel free to get in touch via email or social media if you're interested in working together.
 
