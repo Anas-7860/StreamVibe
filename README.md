@@ -1,4 +1,3 @@
-![mern stack project](https://github.com/amirrezaRst/StreamVibe/blob/master/frontend/public/github/project-thumbnail.jpg?raw=true)
 #  **StreamVibe** - Fullstack MERN & Next.js Project for Movie and TV Show Streaming
 
 
