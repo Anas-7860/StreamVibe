@@ -9,7 +9,7 @@
     "start": "cross-env NODE_ENV=production node server.js"
   },
   "keywords": [],
-  "author": "amirreza rostami",
+  "author": "Anas Khan",
   "license": "ISC",
   "dependencies": {
     "@liara/cli": "^7.0.7",
